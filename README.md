@@ -9,11 +9,13 @@ This project was just my experiments on UI/UX on native windows application.I us
 
 ![Loading Screen](assets/splash.png)
 
+
 - LOG OUT SPLASH 
 
 A multicolored logout splash screen while the session is closed and a great fusion of material and metro design.
 
 ![Splash Screen](assets/signout.png)
+
 
 - LOGIN FORM
 
@@ -21,11 +23,13 @@ This is the view of Login screen.It consist of tab buttons to switch over to Sig
 
 ![LOGIN SCREEN](assets/login.png)
 
+
 - MAIN PAGE
 
 This is the main view of admin/staff panel which is easy to understand even for non technical staff .
 
 ![MAIN VIEW](assets/mainscreen.png)
+
 
 - Time-Table View
 
@@ -34,12 +38,14 @@ Choosing the right timetable is easy just select the class from option.Users can
 ![TIMETABLE](assets/timetable.png)
 ![TIMETABLE2](assets/timetable2.png)
 
+
 - Settings Panels
 
 This is Settings window beautifully designed inspired from material design.
  
 ![Settings](assets/settings.png)
 ![Profile](assets/profilemenu.png)
+
 
 - About WinForm
 
