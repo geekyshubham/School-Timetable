@@ -19,7 +19,7 @@ A multicolored logout splash screen while the session is closed and a great fusi
 
 - LOGIN FORM
 
-This is the view of Login screen.It consist of tab buttons to switch over to SignUp Paage or other.
+This is the view of Login screen.It consist of tab button to switch over to SignUp Paage or other.
 
 ![LOGIN SCREEN](assets/login.png)
 
@@ -41,7 +41,7 @@ Choosing the right timetable is easy just select the class from option.Users can
 
 - Settings Panels
 
-This is Settings window beautifully designed inspired from material design.
+This is Settings Window, beautifully designed inspired from material design.
  
 ![Settings](assets/settings.png)
 ![Profile](assets/profilemenu.png)
@@ -49,7 +49,7 @@ This is Settings window beautifully designed inspired from material design.
 
 - About WinForm
 
-About the application inspired from acrylic design fused with materialistic elements which is our weapon of choice.
+About application inspired from acrylic design fused with materialistic elements which is our weapon of choice.
 
 ![About-me](assets/aboutus.png)
 
