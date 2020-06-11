@@ -5,10 +5,6 @@ My Experience with WinForm Frameworks.
 
 This project was just my experiments on UI/UX on native windows application.I used different frameworks like Bunifu,DevExpress and Material Library to achieve modern aesthetics in a native application by keeping it simple.
 
-- LOADING/SPLASH SCREEN
-
-![Loading Screen](assets/splash.png)
-
 
 - LOG OUT SPLASH 
 
